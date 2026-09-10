@@ -1,0 +1,6 @@
+interface:
+  display_name: "Industry Research Atlas"
+  short_description: "Evidence-based industry research and bilingual HTML maps"
+  default_prompt: "Use $industry-research-atlas to research my chosen industry and build a sourced, bilingual HTML atlas."
+policy:
+  allow_implicit_invocation: true
